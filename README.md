@@ -8,4 +8,4 @@ An exploratory data analysis (EDA) project on the Zomato dataset to extract insi
   - Visualization of top cuisines and city-wise distribution
   - Cost vs Rating Analysis
   - Restaurant types & service types analysis
-- 🔗 **GitHub Repo**: [Zomato Data Analysis](https://github.com/Atharv322/Zomato-Data-Analysis)
+- 🔗 **GitHub Repo**: [Zomato Data Analysis](https://github.com/Atharv322/Zomato_Project/blob/main/zomato_project.ipynb)
